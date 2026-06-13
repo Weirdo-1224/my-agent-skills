@@ -24,8 +24,8 @@ SCOPES = ["shared", "claude-only", "kimi-only", "codex-only"]
 # Map scope -> list of (agent_label, target_dir_name_under_home)
 SCOPE_TARGETS: Dict[str, List[Tuple[str, str]]] = {
     "shared": [
-        ("agents", ".agents/skills"),
         ("claude", ".claude/skills"),
+        ("codex", ".codex/skills"),
         ("kimi", ".kimi/skills"),
     ],
     "claude-only": [
@@ -34,8 +34,9 @@ SCOPE_TARGETS: Dict[str, List[Tuple[str, str]]] = {
     "kimi-only": [
         ("kimi", ".kimi/skills"),
     ],
-    # Codex-only skills are not deployed in the first phase.
-    "codex-only": [],
+    "codex-only": [
+        ("codex", ".codex/skills"),
+    ],
 }
 
 

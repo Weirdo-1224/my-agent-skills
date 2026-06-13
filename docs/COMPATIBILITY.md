@@ -20,9 +20,9 @@ skills/shared/
 
 **部署目标**：
 
-- `~/.agents/skills`（Codex / Kimi Code 通用目录）
 - `~/.claude/skills`（Claude Code）
-- `~/.kimi/skills`（Kimi Code 品牌目录）
+- `~/.codex/skills`（Codex）
+- `~/.kimi/skills`（Kimi Code）
 
 ## B 级：内容共享，但部分功能降级
 
