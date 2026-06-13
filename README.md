@@ -2,9 +2,6 @@
 
 本仓库用于集中收藏、整理和维护个人认可的外部 Agent Skills，支持跨 Agent（Claude Code、Codex、Kimi Code）和跨主机（Windows、Linux）使用。
 
-## 设计文档
-
-详细方案见：[`个人精选 Agent Skill 跨 Agent、跨主机管理方案.md`](./个人精选%20Agent%20Skill%20跨%20Agent、跨主机管理方案.md)
 
 ## 仓库结构
 
