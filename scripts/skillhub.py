@@ -26,6 +26,7 @@ SCOPE_TARGETS: Dict[str, List[Tuple[str, str]]] = {
     "shared": [
         ("agents", ".agents/skills"),
         ("claude", ".claude/skills"),
+        ("kimi", ".kimi-code/skills"),
     ],
     "claude-only": [
         ("claude", ".claude/skills"),
