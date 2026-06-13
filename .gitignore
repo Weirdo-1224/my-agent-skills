@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary directories
+.temp/
+tmp/
+.local/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local state (managed by skillhub.py, not shared across machines)
+# The state file lives in ~/.skillhub/state.json, not in the repo.
+*.state.json
