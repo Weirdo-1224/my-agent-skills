@@ -1,6 +1,6 @@
 # Java Code Review
 
-**Load**: `view .claude/skills/java-code-review/SKILL.md`
+**Load**: Open `java-code-review/SKILL.md` in your agent's skills directory.
 
 ---
 

@@ -1,6 +1,6 @@
 # Design Patterns
 
-**Load**: `view .claude/skills/design-patterns/SKILL.md`
+**Load**: Open `design-patterns/SKILL.md` in your agent's skills directory.
 
 ---
 

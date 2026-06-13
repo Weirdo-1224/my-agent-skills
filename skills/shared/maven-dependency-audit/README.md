@@ -1,6 +1,6 @@
 # Maven Dependency Audit
 
-**Load**: `view .claude/skills/maven-dependency-audit/SKILL.md`
+**Load**: Open `maven-dependency-audit/SKILL.md` in your agent's skills directory.
 
 ---
 

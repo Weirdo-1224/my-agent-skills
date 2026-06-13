@@ -1,6 +1,6 @@
 # Git Commit Messages
 
-**Load**: `view .claude/skills/git-commit/SKILL.md`
+**Load**: Open `git-commit/SKILL.md` in your agent's skills directory.
 
 ---
 

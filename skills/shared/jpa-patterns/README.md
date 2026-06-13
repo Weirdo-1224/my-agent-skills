@@ -1,6 +1,6 @@
 # JPA Patterns
 
-**Load**: `view .claude/skills/jpa-patterns/SKILL.md`
+**Load**: Open `jpa-patterns/SKILL.md` in your agent's skills directory.
 
 ---
 

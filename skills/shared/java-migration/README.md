@@ -1,6 +1,6 @@
 # Java Migration
 
-**Load**: `view .claude/skills/java-migration/SKILL.md`
+**Load**: Open `java-migration/SKILL.md` in your agent's skills directory.
 
 ---
 

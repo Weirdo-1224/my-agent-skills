@@ -1,6 +1,6 @@
 # Logging Patterns
 
-**Load**: `view .claude/skills/logging-patterns/SKILL.md`
+**Load**: Open `logging-patterns/SKILL.md` in your agent's skills directory.
 
 ---
 

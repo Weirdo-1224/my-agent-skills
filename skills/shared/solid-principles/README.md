@@ -1,6 +1,6 @@
 # SOLID Principles
 
-**Load**: `view .claude/skills/solid-principles/SKILL.md`
+**Load**: Open `solid-principles/SKILL.md` in your agent's skills directory.
 
 ---
 

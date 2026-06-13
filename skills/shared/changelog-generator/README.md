@@ -1,6 +1,6 @@
 # Changelog Generator
 
-**Load**: `view .claude/skills/changelog-generator/SKILL.md`
+**Load**: Open `changelog-generator/SKILL.md` in your agent's skills directory.
 
 ---
 

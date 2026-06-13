@@ -1,6 +1,6 @@
 # Test Quality (JUnit 5 + AssertJ)
 
-**Load**: `view .claude/skills/test-quality/SKILL.md`
+**Load**: Open `test-quality/SKILL.md` in your agent's skills directory.
 
 ---
 

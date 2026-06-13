@@ -1,6 +1,6 @@
 # Security Audit
 
-**Load**: `view .claude/skills/security-audit/SKILL.md`
+**Load**: Open `security-audit/SKILL.md` in your agent's skills directory.
 
 ---
 

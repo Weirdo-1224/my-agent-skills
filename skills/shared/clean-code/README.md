@@ -1,6 +1,6 @@
 # Clean Code
 
-**Load**: `view .claude/skills/clean-code/SKILL.md`
+**Load**: Open `clean-code/SKILL.md` in your agent's skills directory.
 
 ---
 
