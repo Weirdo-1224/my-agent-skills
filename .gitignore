@@ -20,3 +20,7 @@ Thumbs.db
 # Local state (managed by skillhub.py, not shared across machines)
 # The state file lives in ~/.skillhub/state.json, not in the repo.
 *.state.json
+
+# AI-only / local notes (not for remote)
+AGENTS.md
+个人精选 Agent Skill 跨 Agent、跨主机管理方案.md
