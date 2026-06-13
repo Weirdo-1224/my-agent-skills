@@ -22,7 +22,7 @@ skills/shared/
 
 - `~/.agents/skills`（Codex / Kimi Code 通用目录）
 - `~/.claude/skills`（Claude Code）
-- `~/.kimi-code/skills`（Kimi Code 品牌目录）
+- `~/.kimi/skills`（Kimi Code 品牌目录）
 
 ## B 级：内容共享，但部分功能降级
 

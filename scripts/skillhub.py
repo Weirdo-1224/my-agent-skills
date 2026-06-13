@@ -26,13 +26,13 @@ SCOPE_TARGETS: Dict[str, List[Tuple[str, str]]] = {
     "shared": [
         ("agents", ".agents/skills"),
         ("claude", ".claude/skills"),
-        ("kimi", ".kimi-code/skills"),
+        ("kimi", ".kimi/skills"),
     ],
     "claude-only": [
         ("claude", ".claude/skills"),
     ],
     "kimi-only": [
-        ("kimi", ".kimi-code/skills"),
+        ("kimi", ".kimi/skills"),
     ],
     # Codex-only skills are not deployed in the first phase.
     "codex-only": [],
