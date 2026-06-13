@@ -375,7 +375,7 @@ def cmd_doctor(_args: argparse.Namespace) -> int:
                 exit_code = 1
 
     # Check target directories are writable.
-    for agent_dir in [".agents/skills", ".claude/skills", ".kimi-code/skills"]:
+    for agent_dir in [".claude/skills", ".codex/skills", ".kimi/skills"]:
         target = agent_target(agent_dir)
         if target.exists() and not os.access(target, os.W_OK):
             print(f"[FAIL] {target} is not writable")

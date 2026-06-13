@@ -2,14 +2,16 @@
 name: issue-triage
 description: Triage and categorize GitHub issues with priority labels. Use when user says "triage issues", "check issues", "review open issues", or during regular maintenance of GitHub issue backlog.
 license: MIT
-compatibility: Claude Code, Codex, and Kimi Code.
+compatibility: Claude Code only.
 metadata:
-  category: java
+  category: workflow
   source-type: curated-external
   risk-level: L0
 ---
 
 # Issue Triage Skill
+
+> **Agent compatibility**: This skill references Claude Code-specific commands (`claude mcp add`, `claude code`, `view .claude/skills/...`) and is intended for Claude Code only.
 
 Efficiently triage GitHub issues for Java projects with categorization and prioritization.
 
