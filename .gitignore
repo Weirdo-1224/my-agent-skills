@@ -21,6 +21,4 @@ Thumbs.db
 # The state file lives in ~/.skillhub/state.json, not in the repo.
 *.state.json
 
-# AI-only / local notes (not for remote)
-AGENTS.md
-design_proposal.md
+# Local notes that should not be shared can go below. Currently none.
